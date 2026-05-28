@@ -51,9 +51,9 @@ JavaScript se tornou tão comum no ambiente web que os desenvolvedores frontend,
 
 - [ ] *PT* Blog RocketSeat [Dominando o Node.js](https://www.rocketseat.com.br/blog/artigos/post/dominando-node-js)
 - [ ] *PT* MDN [Express Web Framework (Node.js/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs)
-- [ ] *EN* W3Schools [Node.js Intro](https://www.w3schools.com/nodejs/nodejs_intro.asp)
-- [ ] *EN* W3Schools [What is NPM?](https://www.w3schools.com/nodejs/nodejs_npm.asp)
-- [ ] *EN* Nodejs.org [Node.js Learn](https://nodejs.org/learn/getting-started/introduction-to-nodejs)
+- [X] *EN* W3Schools [Node.js Intro](https://www.w3schools.com/nodejs/nodejs_intro.asp)
+- [X] *EN* W3Schools [What is NPM?](https://www.w3schools.com/nodejs/nodejs_npm.asp)
+- [X] *EN* Nodejs.org [Node.js Learn](https://nodejs.org/learn/getting-started/introduction-to-nodejs)
 - [ ] *EN* Nodejs.org [An introduction to the npm package manager](https://nodejs.org/learn/getting-started/an-introduction-to-the-npm-package-manager)
 - [ ] *EN* Blog [An Absolute Beginner's Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm)
 

@@ -25,9 +25,9 @@ The Model-View-Controller (MVC) pattern is an important guideline to organize so
 
 O padrão Model-View-Controller (MVC) é uma diretriz importante para organizar o código do software, evitando confusão durante o desenvolvimento e tornando-o mais legível e fácil de manter.
 
-- [ ] *EN* Wikipedia [Model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-- [ ] *PT* Wikipedia [MVC](https://pt.wikipedia.org/wiki/MVC)
-- [ ] *PT* Blog Devmedia [Padrão MVC - Java Magazine](https://www.devmedia.com.br/padrao-mvc-java-magazine/21995)
+- [X] *EN* Wikipedia [Model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+- [X] *PT* Wikipedia [MVC](https://pt.wikipedia.org/wiki/MVC)
+- [X] *PT* Blog Devmedia [Padrão MVC - Java Magazine](https://www.devmedia.com.br/padrao-mvc-java-magazine/21995)
 
 
 ### Client-Server
